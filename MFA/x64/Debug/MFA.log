@@ -1,0 +1,35 @@
+﻿  MFA.cpp
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(46,18): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(48,17): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(91,53): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(93,20): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(98,25): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(99,59): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(99,59): warning C4267:         with
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(99,59): warning C4267:         [
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(99,59): warning C4267:             _Ty=int
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(99,59): warning C4267:         ]
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(103,65): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(103,65): warning C4267:         with
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(103,65): warning C4267:         [
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(103,65): warning C4267:             _Ty=int
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(103,65): warning C4267:         ]
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(113,18): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(122,74): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(122,74): warning C4267:         with
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(122,74): warning C4267:         [
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(122,74): warning C4267:             _Ty=int
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(122,74): warning C4267:         ]
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(135,67): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(135,67): warning C4267:         with
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(135,67): warning C4267:         [
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(135,67): warning C4267:             _Ty=int
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(135,67): warning C4267:         ]
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(147,67): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(147,67): warning C4267:         with
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(147,67): warning C4267:         [
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(147,67): warning C4267:             _Ty=int
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(147,67): warning C4267:         ]
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(160,21): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(182,41): warning C4309: "domyślny argument": obcięcie stałej wartości
+  MFA.vcxproj -> C:\Users\Piotrek\Downloads\bioinformatyka\MFA\x64\Debug\MFA.exe

@@ -1,0 +1,24 @@
+﻿  MFA.cpp
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(48,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(58,61): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(58,61): warning C4267:         with
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(58,61): warning C4267:         [
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(58,61): warning C4267:             _Ty=int
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(58,61): warning C4267:         ]
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(73,65): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(73,65): warning C4267:         with
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(73,65): warning C4267:         [
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(73,65): warning C4267:             _Ty=int
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(73,65): warning C4267:         ]
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(78,58): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(78,58): warning C4267:         with
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(78,58): warning C4267:         [
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(78,58): warning C4267:             _Ty=int
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(78,58): warning C4267:         ]
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MFA.cpp(103,13): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  5 of 274 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  MFA.vcxproj -> C:\Users\Piotrek\Downloads\bioinformatyka\MFA\x64\Release\MFA.exe
