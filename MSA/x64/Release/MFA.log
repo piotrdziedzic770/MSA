@@ -1,0 +1,23 @@
+﻿  MSA.cpp
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(48,11): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(58,61): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(58,61): warning C4267:         with
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(58,61): warning C4267:         [
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(58,61): warning C4267:             _Ty=int
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(58,61): warning C4267:         ]
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(73,65): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(73,65): warning C4267:         with
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(73,65): warning C4267:         [
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(73,65): warning C4267:             _Ty=int
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(73,65): warning C4267:         ]
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(78,58): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(78,58): warning C4267:         with
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(78,58): warning C4267:         [
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(78,58): warning C4267:             _Ty=int
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(78,58): warning C4267:         ]
+C:\Users\Piotrek\Downloads\bioinformatyka\MFA\MSA.cpp(103,13): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 274 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  MFA.vcxproj -> C:\Users\Piotrek\Downloads\bioinformatyka\MFA\x64\Release\MSA.exe

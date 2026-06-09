@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Piotrek\\Downloads\\bioinformatyka\\MFA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD65AE7A-612B-4A2D-A1CC-B6CF6ED58F9E}|MFA.vcxproj|C:\\Users\\Piotrek\\Downloads\\bioinformatyka\\MFA\\MSA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DD65AE7A-612B-4A2D-A1CC-B6CF6ED58F9E}|MFA.vcxproj|solutionrelative:MSA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MSA.cpp",
+              "DocumentMoniker": "C:\\Users\\Piotrek\\Downloads\\bioinformatyka\\MFA\\MSA.cpp",
+              "RelativeDocumentMoniker": "MSA.cpp",
+              "ToolTip": "C:\\Users\\Piotrek\\Downloads\\bioinformatyka\\MFA\\MSA.cpp",
+              "RelativeToolTip": "MSA.cpp",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAK4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-10T17:38:56.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
